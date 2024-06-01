@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "TimeSessionTracker": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\bhest\\OneDrive\\Desktop\\Projects\\TimeSessionTracker\\TimeSessionTracker"
+    }
+  }
+}
