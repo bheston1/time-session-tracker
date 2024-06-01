@@ -1,19 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Configuration;
-using System.Collections.Specialized;
+﻿using System.Configuration;
 using System.Data.SQLite;
 using Dapper;
 using Spectre.Console;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Collections;
 using System.Globalization;
-using System.Data;
-using System.Reflection.Metadata.Ecma335;
-using System.Runtime.CompilerServices;
 
 namespace TimeSessionTracker
 {
