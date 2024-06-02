@@ -8,7 +8,7 @@ namespace TimeSessionTracker
 {
     internal static class DatabaseFunctions
     {
-        private static readonly string? _connectionString = ConfigurationManager.ConnectionStrings["sqliteconn"].ConnectionString;
+        private static string? _connectionString = ConfigurationManager.ConnectionStrings["sqliteconn"].ConnectionString;
         private static bool _bypassViewConfirm = false;
 
         internal static void CreateLocalDatabase()
