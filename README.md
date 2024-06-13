@@ -1,6 +1,15 @@
-Simple console app that records time sessions to a local db file
+Learning project. Simple console app that records time sessions to a local db file.
 
 Grab the zip from latest releases [here](https://github.com/bheston1/time-session-tracker/releases/latest) and run the exe or just use the installer
+
+# Requirements
+
+- [x] Use the "Spectre.Console" library for presenting UI to console
+- [x] Define to user the specific format for date and time input
+- [x] Database connection string should be in a config file
+- [x] Session durations should be calculated automatically based on user's input
+- [x] Use Dapper ORM for data access
+- [x] 
 
 ![image](https://github.com/bheston1/time-session-tracker/assets/111481356/61e5dabf-f1f0-4cc2-8707-f1524c7020a8)
 
