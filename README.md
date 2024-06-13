@@ -9,7 +9,7 @@ Grab the zip from latest releases [here](https://github.com/bheston1/time-sessio
 - [x] Database connection string should be in a config file
 - [x] Session durations should be calculated automatically based on user's input
 - [x] Use Dapper ORM for data access
-- [x] 
+- [x] Sessions database table should be read into a list when viewing
 
 ![image](https://github.com/bheston1/time-session-tracker/assets/111481356/61e5dabf-f1f0-4cc2-8707-f1524c7020a8)
 
