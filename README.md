@@ -1,6 +1,6 @@
 Learning project. Simple console app that records time sessions to a local db file.
 
-Grab the zip from latest releases [here](https://github.com/bheston1/time-session-tracker/releases/latest) and run the exe or just use the installer
+Grab the zip from latest releases [here](https://github.com/bheston1/time-session-tracker/releases/latest) and run the exe
 
 # Requirements
 
